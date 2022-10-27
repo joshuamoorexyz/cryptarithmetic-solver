@@ -3,9 +3,10 @@ Intro to artificial intelligence, Mississippi State Fall 2022
 
 Example Run: 
 Problem:
+
  SEND
 +MORE
--------
+
 MONEY
 
 
